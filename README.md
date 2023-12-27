@@ -3,5 +3,5 @@ This is a temporary markdown file in place of a simple HTML, CSS, and JavaScript
 At some point, this page will be a personal site which will branch off into the documentation of whatever I pursue. This site will also, naturally, be used in a professional setting as a CV/resume. 
 
 ## Notes to self
-###Home Page
+### Home Page
 The home page should be minimalistic. Use other pages for elaboration on short summaries. Use markdown files for longer format documents. Also, consider using markdown for the page content at some point. Especially if the page will change or be updated. It might also be worth to consider using a database structure to pull text content from. This could be useful to keep the site dynamic throughout all pages by using a single 'content reference.'
