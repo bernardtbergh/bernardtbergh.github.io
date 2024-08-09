@@ -5,9 +5,9 @@ This is a simple website that will be designed and coded by me in pure HTML, CSS
 I am a final year BEng Mechatronic student at the Stellenbosch University. I reside in the Northern Suburbs of Cape Town, Western Cape, South Africa. My final-year project is to design, build, and commission an automated scratch-testing machine.
 
 ## Skills
-    * Problem Solving
-    * Programming
-    * 3D Modelling
+   * Problem Solving
+   * Programming
+   * 3D Modelling
     * Mechanical Design
     * Digital Electronic Design
     * Analog Electronic Design
@@ -21,7 +21,7 @@ I am a final year BEng Mechatronic student at the Stellenbosch University. I res
 * 3D Printing (FDM/FFF)
 * STM32
 
-## Technical Languages :)
+## Technical Languages :
 * C
 * MatLab
 * LaTex
@@ -31,3 +31,11 @@ I am a final year BEng Mechatronic student at the Stellenbosch University. I res
 ## Languages
  * Afrikaans - native
  * English  - fluent
+
+## Personal projects I wish to pursue
+* Design and build DC variable load device
+* Design and build VSD - multiphase sine wave simulator
+* Develop a multi-purpose automation product for various industries enabling simple end-user setup and SCADA system for any simple automation applications
+* Design and build an efficient Vertical Axis Wind Turbine (for 1kW or so)
+* Design and 3D print / cast a supersonic rocket nozzle
+* Design and build a independently driven wheel hybrid 4x4 from scratch (road legal) - requires a lot of tooling for turning, milling, CNC cutting, casting, and heat-treatment - not realistic, but a multi-year project dream
