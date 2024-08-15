@@ -39,3 +39,4 @@ I am a final year BEng Mechatronic student at the Stellenbosch University. I res
 * Design and build an efficient Vertical Axis Wind Turbine (for 1kW or so)
 * Design and 3D print / cast a supersonic rocket nozzle
 * Design and build an independently driven wheel hybrid 4x4 from scratch (road legal) - requires a lot of tooling for turning, milling, CNC cutting, casting, and heat-treatment - not realistic, but a multi-year project dream
+* Investigate SOFC
