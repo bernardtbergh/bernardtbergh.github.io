@@ -33,4 +33,4 @@ I am a final year BEng Mechatronic student at the Stellenbosch University. I res
  * English  - fluent
 
 ## Project ideas:
-[Project ideas](project.md)
+
