@@ -1,3 +1,7 @@
+---
+title: Bernardt's Site
+---
+
 This is a simple website that will be designed and coded by me in pure HTML, CSS and JS using MarkDown files for content. For now, its just a simple MarkDown file. It is not yet complete, but just something for now.
 # Bernardt Bergh's Personal Website
 
