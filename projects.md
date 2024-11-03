@@ -15,7 +15,6 @@
 
 # Electronic
 * Variable DC load - capable of MPPT, up to 10A, and up to 100 V, Maximum power limits of 300 W - 500 W - transistor and heat sink limits, active temperature monitoring on transistors, active load balancing
--
 * True Sinewave inverter - up to 350 W or so.
   - True sinewave inverter - takes 12-24 V
   - Accept additional DC source
@@ -31,13 +30,20 @@
 # Electro-mechanical
 * Vertical Axis Wind Turbine VAWT, 250 - 500 W
   - Braking - electrically? - Transistors? - Resistors? + mechanical
-  - Interface with Sinewave inverter 
-
+  - DC generator
+  - Monitor power profile: Power at wind speed and rotor RPM, used for quick MPPT reference.
+  - Simulate power profile: CFD simulation of turbine at ambient conditions - specifically in Cape Town
+* Permanent magnet reluctance motor (few kW)
+  - FEM simulation on EMF during design
+  - use VSD to drive - power requirement as reference (similar to a car)
+* EMF shock absorber/actuator
+  - See final year project for references
+  - Design for go-cart
+  - Use regen? Dissipate into a variable load?- changing stiffness.
 
 
 
 # Stuff to learn and implement (Computing, homelab, etc):
-
 ## Learn:
 * Linux - get comfortable with CLI
 * Docker - get comfortable with CLI
