@@ -13,6 +13,29 @@
 1. Flow meter using only power and frequency values of a pump (VSD) - simple to calibrate
 
 
+# Electronic
+* Variable DC load - capable of MPPT, up to 10A, and up to 100 V, Maximum power limits of 300 W - 500 W - transistor and heat sink limits, active temperature monitoring on transistors, active load balancing
+-
+* True Sinewave inverter - up to 350 W or so.
+  - True sinewave inverter - takes 12-24 V
+  - Accept additional DC source
+  - High-speed feedback control on output voltage
+  - High-speed charger - settable battery specs
+
+* DC load balancer:
+  -  Output connected to inverter
+  -  Priority balance multiple DC sources with MPPT tracking optional
+  -  Consider battery as DC input? 
+
+
+# Electro-mechanical
+* Vertical Axis Wind Turbine VAWT, 250 - 500 W
+  - Braking - electrically? - Transistors? - Resistors? + mechanical
+  - Interface with Sinewave inverter 
+
+
+
+
 # Stuff to learn and implement (Computing, homelab, etc):
 
 ## Learn:
