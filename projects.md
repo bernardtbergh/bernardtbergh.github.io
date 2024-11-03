@@ -27,30 +27,30 @@
 ## Homelab stuff, etc., and check-out
 ### Media
 * NAS
-*	Plex and/or Jellyfin
-*	Handbrake
-*	QBitTorrent
+* Plex and/or Jellyfin
+* Handbrake
+* QBitTorrent
 	
 	
 ### Storage:
-*	Nextcloud
-*	SMB	
-*	Onedrive backup
-*	Google Drive backup?
-*	Some cloud backup?
-*	Some Raspberry Pi remote backup solution - for critical data only. Minimal media	
+* Nextcloud
+* SMB	
+* Onedrive backup
+* Google Drive backup?
+* Some cloud backup?
+* Some Raspberry Pi remote backup solution - for critical data only. Minimal media	
 	
 
 ### Services:
-*	Webserver - for website tests
-*	Quoting software - etc.	
-*	Landing page - with status checks
-*	NVR
-*	Some cashing? for Steam perhaps?
-*	Project Management - Open Project
-*	Colab Wiki - Outline - instead of notion - or look at alternatives
+* Webserver - for website tests
+* Quoting software - etc.	
+* Landing page - with status checks
+* NVR
+* Some cashing? for Steam perhaps?
+* Project Management - Open Project
+* Colab Wiki - Outline - instead of notion - or look at alternatives
 	
 	
 ### Check out:
-*	Spreadsheet alt - Grist
-*	Mealie
+* Spreadsheet alt - Grist
+* Mealie
