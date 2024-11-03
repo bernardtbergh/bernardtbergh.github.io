@@ -1,3 +1,7 @@
+---
+title: Bernardt's Project Ideas
+---
+
 # Project ideas:
 
 ## Uncategorised
