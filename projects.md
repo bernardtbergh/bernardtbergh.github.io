@@ -2,6 +2,8 @@
 title: Bernardt's Project Ideas
 ---
 
+[Go back to home](README.md)
+
 # Project ideas:
 
 ## Uncategorised
