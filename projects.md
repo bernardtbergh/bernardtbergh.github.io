@@ -24,7 +24,10 @@
 * DC load balancer:
   -  Output connected to inverter
   -  Priority balance multiple DC sources with MPPT tracking optional
-  -  Consider battery as DC input? 
+  -  Consider battery as DC input?
+ 
+* Affordable solar irradiance sensor
+  - Short-circuit a small solar panel 
 
 
 # Electro-mechanical
