@@ -47,14 +47,47 @@
 
 
 # Stuff to learn and implement (Computing, homelab, etc):
-## Learn:
+## Learn for homelab:
 * Linux - get comfortable with CLI
 * Docker - get comfortable with CLI
 * Proxmox
 * Web server
 * Learn networking
 
+## Learn for skills
+* Kubernetes
+* Bash
+* AWS
+* Terraform
+* Docker
+* GitLab CI/CD
+* GoLang
 
+
+## Courses interested at Udemy
+* GitLab Ci: Pipelines, Ci/CD and DevOps for beginners
+* Kubernetes Certified Application Developer
+* Go: The Complete Developer's Guide (GoLang)
+
+## Courses interested at Coursera
+* Advanced C stuff if available
+* Developing Industrial IoT
+* IOT
+* Could-computing
+* Introduction to Data Engineering
+* IBM Data Engineer Certificate
+* Data Warehouse Engineering
+* Java programming
+* Java object-oriented
+* Java Advanced Parallel Computing
+* Java Fullstack
+
+## More courses at Coursera
+* Statistical Thermodynamics
+* Google Project Management
+* Engineering Project Management
+* Financial Engineering and Risk Management
+* Advanced Embedded Linux Development
 
 ## Homelab stuff, etc., and check-out
 ### Media
