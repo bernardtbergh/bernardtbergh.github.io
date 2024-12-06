@@ -2,6 +2,12 @@
 
 # Project ideas:
 
+## LoraWAN IOT control
+1. LoraWAN!
+2. Make LoraWAN gateway with ethernet and 4G modules
+3. Make LoraWAN nodes with Analog, Digital, and Comms input
+4. Run a webserver on esp32 to set up Nodes and Gateways. 
+
 ## Uncategorised
 1. Design and build DC variable load device
 1. Design and build VSD - multiphase sine wave simulator
