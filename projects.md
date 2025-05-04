@@ -8,6 +8,17 @@
 3. Make LoraWAN nodes with Analog, Digital, and Comms input
 4. Run a webserver on esp32 to set up Nodes and Gateways. 
 
+## Sensors
+1. Potential solar power sensor (Irradiance) 
+* Use solar panel
+* Relay outputs programmable 
+* Calibration 
+* Self check 
+* LoRa Wan IOT? 
+
+## Building Management Water Leak Warning System
+Simple idea - compare total flow to summed flow of all sub areas, etc. Make it a nice SCADA interface for live monitoring. Add solenoid valves for control. Perhaps latching solenoids. Think of testing and maintanance - some self testing method. See as a whole building monitor system. Per floor or paper section. 
+
 ## Uncategorised
 1. Design and build DC variable load device
 1. Design and build VSD - multiphase sine wave simulator
