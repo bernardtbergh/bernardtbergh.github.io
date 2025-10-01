@@ -79,6 +79,7 @@ Simple idea - compare total flow to summed flow of all sub areas, etc. Make it a
 * Docker
 * GitLab CI/CD
 * GoLang
+* Beckhoff TwinCAT or similar soft PLC environments
 
 
 ## Courses interested at Udemy
