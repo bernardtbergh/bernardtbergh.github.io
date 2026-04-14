@@ -68,9 +68,9 @@ Simple idea - compare total flow to summed flow of all sub areas, etc. Make it a
 * Consider CAN for all supporting sensors (slowish) and functions having only fundamental sensors be directly on ECU. Consider a few dedicated CAN BUSSES for specific systems. OBD2?
 
 ## Valve actuator for engine
-* Fast and electronic
-** Consider perhaps speeding up close speed using solenoid to pull it up
-** Easy mount - custom tappet cover plates to secure solenoid actuators or use variable bracket onto existing mountings. 
+- Fast and electronic
+-- Consider perhaps speeding up close speed using solenoid to pull it up
+-- Easy mount - custom tappet cover plates to secure solenoid actuators or use variable bracket onto existing mountings. 
 
 # Stuff to learn and implement (Computing, homelab, etc):
 ## Learn for homelab:
