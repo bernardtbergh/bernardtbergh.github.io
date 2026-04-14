@@ -61,7 +61,11 @@ Simple idea - compare total flow to summed flow of all sub areas, etc. Make it a
   - Design for go-cart
   - Use regen? Dissipate into a variable load?- changing stiffness.
 
+# Engine ECU with CAN
+ - start with a few CAN controllers/sensors/devices to build CAN network with. 
+ - then build a 4-6 cylinder ECU for testing. Use a second hand 1.3 / 1.6 Rocam or some non interfering engine. Also look at old 2jz. When ready implement on Barra - perhaps Jaco might be interested
 
+* Consider CAN for all supporting sensors (slowish) and functions having only fundamental sensors be directly on ECU. Consider a few dedicated CAN BUSSES for specific systems. OBD2? 
 
 # Stuff to learn and implement (Computing, homelab, etc):
 ## Learn for homelab:
