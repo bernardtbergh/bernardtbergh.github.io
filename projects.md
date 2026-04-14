@@ -69,8 +69,8 @@ Simple idea - compare total flow to summed flow of all sub areas, etc. Make it a
 
 ## Valve actuator for engine
 - Fast and electronic
--- Consider perhaps speeding up close speed using solenoid to pull it up
--- Easy mount - custom tappet cover plates to secure solenoid actuators or use variable bracket onto existing mountings. 
+- Consider perhaps speeding up close speed using solenoid to pull it up
+- Easy mount - custom tappet cover plates to secure solenoid actuators or use variable bracket onto existing mountings. 
 
 # Stuff to learn and implement (Computing, homelab, etc):
 ## Learn for homelab:
